@@ -46,7 +46,9 @@ It is inspired by the pen-and-paper adventure *For Duty and Deity* by Dale Donov
 ---
 
 ## Compatibility  
-Compatible with **BG2EE** and **EET**  
+Compatible with **BG2EE** and **EET** 
+
+If you are using the BP-BGT Worldmap mod, version 14 or higher is required for this mod.
 
 ---
 
