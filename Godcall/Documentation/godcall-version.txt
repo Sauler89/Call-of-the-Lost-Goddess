@@ -1,3 +1,7 @@
+Version 3.1
+- fixed bug in the dialogue of the orphan in area AC#W76
+- updated German Translation
+
 Version 3.0
 - Fix position of Goldspire worldmap's icon to prevent overlapping with Gnoll Stronghold or Ormyrrs' Peak (SotSC), by Roberciiik
 - Fix worldmap location names for names with spaces, by Roberciiik

@@ -1,9 +1,14 @@
-@39 = ~Ihr seid es! Der Held unserer Kirche! Ihr habt Waukeen zurückgebracht!~
-@40 = ~Der Dank aller Gläubigen ist Euch gewiss, <CHARNAME>. Dank Euch strahlt der goldene Glanz der Herrin der Münzen wieder in unserem Tempel, und ihr Segen nährt den Wohlstand all ihrer Anhänger. Wir fühlen uns geehrt durch Euren Besuch! Aber ich möchte Euch nicht zu lange aufhalten, denn Ihr habt bestimmt Wichtigeres zu tun.~
-@41 = ~Erkennt Ihr mich nicht? Ich bin <CHARNAME>, der Retter Waukeens!~
-@42 = ~Ich hörte, Waukeen sei ins Götterpantheon zurückgekehrt?~
-@43 = ~Oh, Ihr seid es! Bitte verzeiht, <CHARNAME>. Der Held unserer Kirche ist in diesem Tempel natürlich stets willkommen.~
-@44 = ~Das stimmt, es sind glückliche Zeiten. Wenngleich niemand den Namen des Retters unserer Göttin kennt. Es scheint, <PRO_HESHE> ziehe es vor, unerkannt zu bleiben.~
+// creator: Shai Hulud
+// game: Call of the Lost Goddess
+// date: 2026-09-09, 20:08
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
+
+@39 = ~Ihr seid es! Der Held unserer Kirche! Ihr habt Waukeen zurückgebracht!~ ~Ihr seid es! Die Heldin unserer Kirche! Ihr habt Waukeen zurückgebracht!~
+@40 = ~Die Dankbarkeit aller Gläubigen gebührt Euch, <CHARNAME>. Dank Euch strahlt der goldene Glanz der Herrin der Münzen wieder in unserem Tempel, und ihr Segen fördert den Wohlstand all Eurer Anhänger. Wir fühlen uns durch Euren Besuch geehrt! Aber ich möchte Euch nicht zu lange aufhalten, da Ihr sicherlich wichtigere Angelegenheiten zu erledigen habt.~
+@41 = ~Erkennt Ihr mich nicht? Ich bin <CHARNAME>, der Retter von Waukeen!~ ~Erkennt Ihr mich nicht? Ich bin <CHARNAME>, die Retterin von Waukeen!~
+@42 = ~Ich habe gehört, dass Waukeen in das Pantheon der Götter zurückgekehrt ist?~
+@43 = ~Ach, Ihr seid es! Bitte vergebt mir, <CHARNAME>. Der Held unserer Kirche ist in diesem Tempel natürlich immer willkommen.~ ~Ach, Ihr seid es! Bitte vergebt mir, <CHARNAME>. Die Heldin unserer Kirche ist in diesem Tempel natürlich immer willkommen.~
+@44 = ~Das stimmt, es sind freudige Zeiten. Allerdings kennt niemand den Namen des Retters unserer Göttin. Es scheint, als wolle <PRO_HESHE> lieber anonym bleiben.~ ~Das stimmt, es sind freudige Zeiten. Allerdings kennt niemand den Namen der Retterin unserer Göttin. Es scheint, als wolle <PRO_HESHE> lieber anonym bleiben.~
 @45 = ~Was kann ich im Namen der Herrin der Münzen für Euch tun?~
-@46 = ~Möge Waukeen Euch stets mit ihrem goldenen Lächeln segnen!~
-@47 = ~Seid gegrüßt, Wanderer. Ihr tretet in wahrhaft goldenen Zeiten in unseren Tempel. Unsere Herrin der Münzen ist in das Götterpantheon zurückgekehrt! Sie wurde von einem unbekannten Retter aus den Fängen eines Unholdes befreit. Kommt und preist ihren Namen, auf dass Euer Handel erblühen und Eure Geschäfte prosperieren mögen!~
+@46 = ~Möge Waukeen Euch stets mit ihrem goldenen Lächeln segnen.~
+@47 = ~Seid gegrüßt, Reisender. Ihr betretet unseren Tempel in wahrhaft goldenen Zeiten. Unsere Herrin der Münzen ist in den göttlichen Pantheon zurückgekehrt! Sie wurde von einem unbekannten Retter aus den Fängen eines Unholds befreit. Kommt und preiset ihren Namen, damit Euer Handel floriert und Euer Geschäft gedeiht!~ ~Seid gegrüßt, Reisende. Ihr betretet unseren Tempel in wahrhaft goldenen Zeiten. Unsere Herrin der Münzen ist in den göttlichen Pantheon zurückgekehrt! Sie wurde von einer unbekannten Retterin aus den Fängen eines Unholds befreit. Kommt und preiset ihren Namen, damit Euer Handel floriert und Euer Geschäft gedeiht!~

@@ -177,7 +177,7 @@ IF~~THEN REPLY @49 EXTERN AC#W76B4 not_real
 IF~~THEN REPLY @50 EXTERN AC#W76B4 yes_give_gold
 IF~~THEN REPLY @51 EXTERN AC#W76B4 nope_give_gold
 IF~~THEN REPLY @52 EXTERN AC#W76B4 nope_give_gold
-IF~~THEN REPLY @66 EXTERN AC#W76B5 nope_give_gold
+IF~~THEN REPLY @66 EXTERN AC#W76B4 nope_give_gold
 	
 	CHAIN AC#W76B4 not_real
 	@53
@@ -185,7 +185,7 @@ IF~~THEN REPLY @66 EXTERN AC#W76B5 nope_give_gold
 	IF~~THEN REPLY @50 EXTERN AC#W76B4 yes_give_gold
 	IF~~THEN REPLY @54 EXTERN AC#W76B4 nope_give_gold
 	IF~~THEN REPLY @52 EXTERN AC#W76B4 nope_give_gold
-	IF~~THEN REPLY @66 EXTERN AC#W76B5 nope_give_gold
+	IF~~THEN REPLY @66 EXTERN AC#W76B4 nope_give_gold
 
 CHAIN IF ~~ THEN AC#W76B4 yes_give_gold
 @55
